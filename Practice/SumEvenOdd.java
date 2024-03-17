@@ -1,5 +1,5 @@
 /*
- * Writeaprogramthatreadsasetofintegers,andthenprintsthesumoftheeven and odd integers.
+ * Write a program that reads a set of integers , and the nprints the sum of the even and odd integers.
  */
 
 package Practice;
